@@ -98,24 +98,20 @@
 
 <br/>
 
+<!-- ✅ Estas imágenes las generará GitHub Actions en tu repo -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel39807&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="github stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel39807&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="top languages"
+    src="https://raw.githubusercontent.com/Gabriel39807/Gabriel39807/main/assets/metrics.svg"
+    alt="metrics"
+    width="95%"
   />
 </div>
 
 <br/>
 
-<!-- ======================= TROPHIES + STREAK ANIMADA ======================= -->
+<!-- ======================= Racha (esta sí te está cargando) ======================= -->
 <div align="center">
-  <h3>🏆 Trofeos y racha 🔥 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28" alt="fire"/></h3>
+  <h3>🔥 Racha</h3>
   <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     width="80%"
@@ -125,23 +121,13 @@
 
 <br/>
 
-<div align="center">
-  <img
-    alt="trophy"
-    src="https://github-profile-trophy.vercel.app/?username=Gabriel39807&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"
-  />
-</div>
-
-<br/>
-
-<!-- La “animación” que viste es el estilo/tema del card + look dinámico -->
 <p align="center">
   <img height="140" width="140"
     src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/main/WEBP/left.webp"
     alt="left wing"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel39807&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=Gabriel39807&amp;theme=tokyonight&amp;hide_border=true"
     alt="streak"
   />
   <img height="140" width="140"
@@ -151,6 +137,7 @@
 </p>
 
 <br/>
+
 
 <!-- ======================= TABLA LENGUAJES ======================= -->
 <div align="center">
@@ -163,10 +150,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <p><i>Esta tabla es “dashboard” (pro). Si quieres, luego te la dejo automática con GitHub Actions para % reales.</i></p>
-</div>
 
 <table align="center">
   <tr>
